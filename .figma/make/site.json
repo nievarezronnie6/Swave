@@ -1,0 +1,10 @@
+{
+  "description": "Browse customizable coffee, frappes, and pastries, place pickup or delivery orders, and track progress with convenient cart and account tools.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
